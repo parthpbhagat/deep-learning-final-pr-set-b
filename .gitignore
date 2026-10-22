@@ -4,3 +4,11 @@ __pycache__/
 .ipynb_checkpoints/
 .DS_Store
 Thumbs.db
+
+# Local model testing frontend (excluded from GitHub)
+app.py
+run_app.bat
+model_tester/
+templates/
+static/
+
